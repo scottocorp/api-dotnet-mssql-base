@@ -125,10 +125,10 @@ Use postman to test:
 - `Send`
 
 Other endpoints:
-- `GET` http://localhost:7071/api/photos
-- `GET` http://localhost:7071/api/photos/`id`
-- `DELETE` http://localhost:7071/api/photos/`id`
-- `PUT` http://localhost:7071/api/photos/`id`
+- `GET`: `http://localhost:7071/api/photos`
+- `GET`: `http://localhost:7071/api/photos/<id>`
+- `DELETE`: `http://localhost:7071/api/photos/<id>`
+- `PUT`: `http://localhost:7071/api/photos/<id>`
 
 
 ## TODO ##
